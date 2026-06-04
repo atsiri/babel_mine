@@ -1,0 +1,14 @@
+streamlit
+pandas
+folium
+streamlit-folium
+pyvis
+numpy
+plotly
+openpyxl
+geopandas
+shapely
+pyproj
+fiona
+pandas
+streamlit
