@@ -9,6 +9,5 @@ openpyxl
 geopandas
 shapely
 pyproj
-fiona
 pandas
 streamlit
